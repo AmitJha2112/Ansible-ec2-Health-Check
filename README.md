@@ -168,15 +168,25 @@ ansible-playbook playbook.yaml
 ```
 
 ### 📷 Screenshots
-<img width="516" height="847" alt="image" src="https://github.com/user-attachments/assets/7c523990-d178-4f65-b5ae-dbb93e63a87f" />
-<img width="1915" height="860" alt="image" src="https://github.com/user-attachments/assets/d97c7d7d-60cd-4b93-bbf3-aca63f314e2d" />
+### 📷 Screenshots
+
+<img width="516" height="847" alt="image1" src="images/image1.png" />
+<img width="1915" height="860" alt="image2" src="images/image2.png" />
 
 
 
 
+## 🛠️ Author & Community  
 
+This project is crafted by **[Amit Kumar Jha](https://github.com/amitjha2112)** 💡.  
+I’d love to hear your feedback! Feel free to share your thoughts.  
 
+📧 **Connect with me:**
 
+- **GitHub**: [amitjha2112](https://github.com/amitjha2112)   
+- **LinkedIn**: [Amit Kumar Jha](https://www.linkedin.com/in/amit-kumar-jha-55b112216/)  
 
+---
 
-
+⭐ Support the Project
+If you found this helpful, consider starring ⭐ the repository and sharing it with your network! 🚀
