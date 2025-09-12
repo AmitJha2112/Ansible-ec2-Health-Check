@@ -167,8 +167,7 @@ https://github.com/pratikgondkar/ansible-ec2-health-check.git
 ansible-playbook playbook.yaml
 ```
 
-### 📷 Screenshots
-### 📷 Screenshots
+### 📷 Screenshots (Output)
 
 <img width="516" height="847" alt="image1" src="images/image1.png" />
 <img width="1915" height="860" alt="image2" src="images/image2.png" />
